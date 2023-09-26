@@ -1,0 +1,1 @@
+The current project will be a listing of recipes, and by the end it will demonstrate my ability to create a crude, functioning website utilizing the html skills I've acquired thus far.
